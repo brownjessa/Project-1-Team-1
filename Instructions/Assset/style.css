@@ -1,0 +1,11 @@
+.jumbotron{
+    background: lightblue;
+    text-align: center;
+}
+
+.row {
+    padding-left: 17%;
+}
+.display {
+    color: black;
+}
